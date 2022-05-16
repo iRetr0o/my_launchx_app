@@ -1,6 +1,4 @@
-# my_launchx_app
-
-## Práctica 1 Semana 3 LaunchX
+# my_launchx_app (práctica 1 Semana 3)
 
 En esta práctica realice y comprendí:
 
