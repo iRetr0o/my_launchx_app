@@ -1,6 +1,6 @@
 # my_launchx_app (práctica 1 Semana 3)
 
-En esta práctica realice y comprendí:
+En esta práctica realice:
 
 - Cómo crear un nuevo proyecto de js:
     - En nuestro directorio donde vamos a trabajar debemos utilizar el comando `npm init` para crear nuestro archivo `package.json`(el directorio debe estar vacio)
@@ -20,3 +20,19 @@ describe("Esto es una suite de pruebas", () => {
 })
 ```
 > Prueba basica de jest
+
+## ¿Como instalar las dependencias?
+```
+npm install
+```
+
+## Comandos habilitados
+* `npm test`
+* `npm start`
+
+## Dependencias
+| Nombre  | Versión | Documentación | 
+| :------------: | :------------: | :------------: |
+| Jest | 27.5.1  | <a href="https://jestjs.io/docs/27.x/getting-started" target="_blank"><img src="https://img.shields.io/badge/Jest-Documentation-brightgreen?style=for-the-badge&logo=jest"></a> |
+
+Versión de Node: <a href="https://nodejs.org/docs/latest-v16.x/api/index.html" target="_blank">16.14.2</a>
